@@ -24,7 +24,7 @@ Cookies
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these “cookies” explicitly.
 
 Service Providers
 
@@ -42,7 +42,12 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. All of the contents such as, movie names, images, descriptions will be generated using TMDB API. you can read their Documentations. Following are the resource links.
+  -https://www.themoviedb.org/terms-of-use
+  -https://www.themoviedb.org/documentation/api/terms-of-use
+  -https://www.themoviedb.org/privacy-policy
+  
+Also the movies and Tv shows are get by 2embed API. When you click on "watch now" or something like that, then you can watch movies which are given by https://www.2embed.to website. It is a free movie API website. All of the movies and Tv shows are imported from this website.
 
 Children’s Privacy
 
